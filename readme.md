@@ -5,7 +5,7 @@
 ### Chapters
 
 0. Installation & Setup
-1. Variable, Data Type and IO
+1. Variable, Data Type & IO
 2. Instructions & Operators
 3. Conditional Statements
 4. Loop Control Statements
